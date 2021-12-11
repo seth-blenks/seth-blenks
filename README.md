@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hello World! Welcome to my github profile. I am a web and mobile application developer. I know python3 and javascript programming languages.
+
